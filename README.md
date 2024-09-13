@@ -1,4 +1,4 @@
-# Terceiro Código 
+# Segundo Código 
 
 Código feito em Portugol Studio, que tem a função de calcular a média de um aluno a partir de quatro notas e informar se o mesmo foi aprovado ou não.
 
